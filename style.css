@@ -1,0 +1,39 @@
+/* Put this at the top of all CSS files */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* ------------------------------------- */
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    padding-bottom: 1rem;
+}
+
+.page-header {
+    background-color: #0e5403;
+    color: white;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.nav-link {
+    color: white;
+}
+
+.store-image {
+    width: 50%;
+    padding-bottom: 1rem;
+}
+
+.main {
+    padding: 1rem;
+}
+
+.main p {
+    padding: 1rem;
+}
